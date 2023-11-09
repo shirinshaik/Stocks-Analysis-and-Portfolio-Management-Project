@@ -1,2 +1,3 @@
 # Stocks Analysis and Portfolio Management Project
 Leveraged Python programming to conduct in-depth analysis of company stocks (including Facebook, Netflix, Twitter, and AT&T) over a 7-year period. Utilized the Capital Asset Pricing Model (CAPM) to calculate stock beta and expected returns, enabling precise portfolio management. Additionally, performed exploratory data analysis, data scaling, normalization, interactive data visualization, and developed functions for daily returns, equipping investors with valuable insights for effective portfolio decision-making.
+(Full Project Description Coming Soon)
